@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,400;1,700&display=swap');
+
+
+
+.cow{
+    text-align: center;
+    background-image: url('cow.jpg');
+    height:100vh;
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    background-position:bottom center;
+}
+*{
+    margin:0px;
+    padding: 0px;
+    font-family: 'Lato', sans-serif;
+}
+.cow h1{
+    color: gray;
+    font-size: 100px;
+    font-weight: 700px;
+    margin-top: 30px;
+    padding-top: 40px;
+}
+
+.cow2 h2 {
+    /* margin-top: 30px; */
+    text-align: center;
+    border: 3px solid black;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    background-color: white;
+    padding: 15px;
+    /* padding-top: 20px; */
+}
+p{
+    padding-top: 20px;
+    margin-left: 30px;
+    padding-bottom: 20px;
+}
+
+.cow2{
+    background-color: gray;
+    /* border: 5px solid yellow; */
+    border-top: 0;
+    margin-top: 20px;
+}
